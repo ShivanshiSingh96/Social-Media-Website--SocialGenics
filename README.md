@@ -64,13 +64,15 @@ SocialGenics/
 ```
 
 ##Future Enhancements
+```
 Advanced Authentication with JWT
 Direct Messaging & Chat Feature
 Media Uploads (Images & Videos)
 Deployment on Render / Vercel / Netlify
-
+```
 
 Author
-
+```
 Shivanshi Singh
 🔗github.com/ShivanshiSingh96
+```
