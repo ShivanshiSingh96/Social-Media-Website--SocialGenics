@@ -1,0 +1,67 @@
+const FeedData = [
+   
+  {
+    id: 1,
+    username: "Lavanya_12aggarwal",
+    time: "45min",
+    profileImg: "https://images.pexels.com/photos/3068249/pexels-photo-3068249.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    postImg: "https://images.pexels.com/photos/7053589/pexels-photo-7053589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg1: "https://images.pexels.com/photos/11921866/pexels-photo-11921866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg2: "https://images.pexels.com/photos/4842584/pexels-photo-4842584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    likeCount: "2, 00, 000",
+    caption:
+      "Dancing with shadows under the moonlight.",
+    commentCount: "100",
+  },
+  {
+    id: 2,
+    username: "food.explorerAnnie",
+    time: "30min",
+    profileImg: "https://images.pexels.com/photos/6529682/pexels-photo-6529682.jpeg?auto=compress&cs=tinysrgb&w=600",
+    postImg: "https://images.pexels.com/photos/15059056/pexels-photo-15059056/free-photo-of-a-bowl-of-rice-with-vegetables-and-sauce.jpeg?auto=compress&cs=tinysrgb&w=400",
+    mutualFrndImg1: "https://images.pexels.com/photos/6479876/pexels-photo-6479876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg2: "https://images.pexels.com/photos/11921866/pexels-photo-11921866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    likeCount: "77,976",
+    caption: "Life is all about finding new tastes and flavors. Give ours a shot.",
+    commentCount: "100",
+  },
+  {
+    id: 3,
+    username: "Aditi_saxena55",
+    time: "1h",
+    profileImg: "https://images.pexels.com/photos/8819773/pexels-photo-8819773.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    postImg: "https://images.pexels.com/photos/8819778/pexels-photo-8819778.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg1: "https://images.pexels.com/photos/11921866/pexels-photo-11921866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg2: "https://images.pexels.com/photos/6479876/pexels-photo-6479876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    likeCount: "49,955",
+    caption: "Embrace your uniqueness; that’s what makes you beautiful.",
+    commentCount: "100",
+  },
+  {
+    id: 4,
+    username: "Singh_Yashodharman",
+    time: "2h",
+    profileImg: "https://images.pexels.com/photos/3934015/pexels-photo-3934015.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    postImg: "https://images.pexels.com/photos/18864602/pexels-photo-18864602/free-photo-of-backpacker-standing-on-boulder-in-mountains.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg1: "https://images.pexels.com/photos/452558/pexels-photo-452558.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg2: "https://images.pexels.com/photos/4842584/pexels-photo-4842584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    likeCount: "1, 57, 678",
+    caption:
+      "Many touriest came nepal from all over the world to explore the beauty of the land & see the amazing natural places.",
+    commentCount: "200",
+  },
+  {
+    id: 5,
+    username: "Vandna",
+    time: "4h",
+    profileImg: "https://images.pexels.com/photos/5430078/pexels-photo-5430078.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    postImg: "https://images.pexels.com/photos/23729695/pexels-photo-23729695/free-photo-of-brunette-with-flower-in-hair.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg1: "https://images.pexels.com/photos/6479876/pexels-photo-6479876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    mutualFrndImg2: "https://images.pexels.com/photos/4842584/pexels-photo-4842584.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    likeCount: "1,790",
+    caption: "Shine everyday...no matter what!!!",
+    commentCount: "40",
+  },
+];
+
+export default FeedData;
