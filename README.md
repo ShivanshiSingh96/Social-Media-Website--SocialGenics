@@ -61,7 +61,7 @@ SocialGenics/
  ├── tailwind.config.js # Tailwind setup
  ├── package.json       # Dependencies & scripts
  └── README.md          # Documentation
-
+```
 
 ##Future Enhancements
 Advanced Authentication with JWT
