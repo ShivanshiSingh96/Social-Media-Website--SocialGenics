@@ -51,14 +51,17 @@ The project is designed with scalability, performance, and user experience in mi
 4.Open the app in your browser:
    http://localhost:5173
 
-📂 Project Structure
+📂 ## 📂 Project Structure  
+
+```plaintext
 SocialGenics/
- ├── src/              # React components & pages
- ├── public/           # Static assets
- ├── vite.config.js    # Vite configuration
+ ├── src/               # React components & pages
+ ├── public/            # Static assets
+ ├── vite.config.js     # Vite configuration
  ├── tailwind.config.js # Tailwind setup
- ├── package.json      # Dependencies & scripts
- └── README.md         # Documentation
+ ├── package.json       # Dependencies & scripts
+ └── README.md          # Documentation
+
 
 ##Future Enhancements
 Advanced Authentication with JWT
